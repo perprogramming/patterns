@@ -15,3 +15,5 @@ class KonkreterDekoriererA extends Dekorierer
     }
 
 }
+
+
